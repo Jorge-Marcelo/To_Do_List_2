@@ -110,7 +110,3 @@ newTableGithub.focus();
 githubButton.addEventListener("click", function () {
 github(githubLink);
 });
-<<<<<<< HEAD
-=======
-
->>>>>>> 694f61e189200fac124c073bcb17aed04ef2da0c
