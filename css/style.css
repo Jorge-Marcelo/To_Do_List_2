@@ -83,54 +83,56 @@ h4 {
 color: rgb(0, 255, 76);
 }
 
+/*Lista ordenada*/
 ol {
 margin-top: 10px;
 }
 
+/*Item da lista*/
 li {
 font-size: 1em;
 color: blue;
 }
 
-.custom-icon {
-background: none;
-}
-
+/*classe da tarefa completa*/
 .completa {
 list-style: none;
 }
 
+/*classe da tarefa incompleta*/
 .incompleta {
 list-style: none;
 }
 
+/*Removendo classe padrão dos icones de adicionar e remover*/
 button {
 font-size: 1em;
 margin: 5px;
 padding: 2px;
 cursor: pointer;
+border: none;
+background: none;
 }
 
+/*Adicionando classes aos icones*/
 .fa-trash {
-color: rgb(255, 255, 255);
-border: 1px solid white;
 padding: 3px;
-background-color: red;
+color: red;
 }
 
 .fa-check {
-color: rgb(255, 255, 255);
-border: 1 solid white;
 padding: 3px;
-background-color: rgb(0, 255, 115);
+color: rgb(0, 255, 115);
 }
 
+/*Linha de separação entre tarefa completa e incompleta*/
 hr {
 margin-top: 5px;
 background-color: white;
 height: 5px;
 }
 
+/*Input para adicionar tarefa*/
 input {
 background-color: transparent;
 height: 40px;
