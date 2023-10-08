@@ -118,11 +118,15 @@ background: none;
 .fa-trash {
 padding: 3px;
 color: red;
+border: none;
+background: none;
 }
 
 .fa-check {
 padding: 3px;
 color: rgb(0, 255, 115);
+border: none;
+background: none;
 }
 
 /*Linha de separação entre tarefa completa e incompleta*/
