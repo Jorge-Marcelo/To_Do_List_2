@@ -8,11 +8,12 @@ Threads: https://www.threads.net/@10_stronger
 */
 
 /*Google Fonts*/
+@import url("https://fonts.googleapis.com/css2?family=Sofia+Sans+Condensed:ital@1&display=swap");
 
-/*Fonte direto do diretorio*/
+/*Fonte direto do diretorio do projeto*/
 @font-face {
 font-family: Sofia Sans Condensed;
-src: url("../assets/fonts/SofiaSansCondensed-Italic.ttf");
+src: url("../assets/fontes/SofiaSansCondensed-Italic.ttf");
 }
 
 /*Configurações padrão*/
